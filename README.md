@@ -18,9 +18,9 @@ An AI-powered data center energy optimization system that uses machine learning 
 - **Visualization**: Plotly, Streamlit
 - **Model**: Random Forest Regressor
 
-## Live Demo
+## View
 
-[Streamlit Cloud Deployment](https://placeholder-link.streamlit.app) *(Coming Soon)*
+Go to https://adam-caio.streamlit.app/
 
 ## Quick Start
 
@@ -30,7 +30,7 @@ See [RUN.md](RUN.md) for detailed instructions on running the project locally.
 
 ```
 ├── step1_dataset.py          # Dataset generation
-├── step2_clean.py            # Data cleaning & preprocessing
+├── step2_clean.py            # Data cleaning preprocessin
 ├── step3_models.py           # ML model training
 ├── step4_recommend.py        # Recommendation system
 ├── dashboard.py              # Streamlit dashboard
@@ -59,4 +59,4 @@ MIT License
 
 ## Author
 
-Adam Ahmed Danish
+Adam Ahmed 
